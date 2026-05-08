@@ -5,7 +5,7 @@ This is the final project for the Data Engineering program. It demonstrates a co
 
 ![Data Engineering](Media/header.jpg)
 
-## Core Tech Stack (Requirement #6 & #7)
+## Core Tech Stack
 *   **Orchestration:** Apache Airflow
 *   **Processing:** Apache Spark (PySpark) with YARN (Cluster Manager)
 *   **Data Lake:** HDFS (Hadoop Distributed File System)
